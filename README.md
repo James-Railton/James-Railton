@@ -4,7 +4,7 @@
 ---
 
 ### What am I currently working on?
-📖 Java
+📖 Java, JavaScript & AWS
 
 ### What is my future goal?
 🏁 My goal is to have a successful career as a full stack software engineer.
